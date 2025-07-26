@@ -89,6 +89,7 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center; /* Centers content vertically */
+    margin-bottom: 20px;
 }
 
 form {
